@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653766817299",
+    "project_id": "newsapp-c184a",
+    "storage_bucket": "newsapp-c184a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653766817299:android:89135b9e53b62ad90ab1e6",
+        "android_client_info": {
+          "package_name": "com.d3sarrollo.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxuSrWPCKEK8dgOj9qXjhZCVFsiNZFAsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
